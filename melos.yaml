@@ -1,0 +1,10 @@
+name: flutter_challenges
+
+packages:
+  - packages/**
+
+scripts:
+  analyze:
+    exec: dart analyze .
+  fix:
+    exec: dart fix .
